@@ -32,7 +32,9 @@ Preparation: https://github.com/TechLadies/ruby-workshop-2017
 
 Slides: https://github.com/TechLadies/ruby-workshop-2017/blob/master/slides.pdf
 
-Recording (by Engineers.SG): 
+Recording (by Engineers.SG): https://engineers.sg/video/techladies-pre-bootcamp-workshop-2-fundamentals-of-the-ruby-programming-language--1781
+
+Additional learning resources: https://www.codecademy.com/learn/learn-the-command-line (Unit 1: Navigating the File System); https://www.codecademy.com/learn/ruby (Unit 1 to 4, up to 'Data Structures'); https://www.codeschool.com/courses/try-ruby (Unit 1 to 4); http://tryruby.org/levels/1/challenges/0
 
 
 ### Workshop #3 - Web Applications with Ruby on Rails
