@@ -39,3 +39,11 @@ Additional learning resources: https://www.codecademy.com/learn/learn-the-comman
 
 ### Workshop #3 - Web Applications with Ruby on Rails
 Learn about Ruby on Rails, a web application framework running on the Ruby programming language. By the end of this workshop, you would be able to create a decent looking simple web application.
+
+Preparation: https://github.com/TechLadies/rails-workshop-2017
+
+Slides: https://docs.google.com/presentation/d/1knbrUGPxAPJ0R1tnlgyU1otj67kM5Sn7RaTCHVQAE6w/edit#slide=id.g22f309e323_0_0
+
+Recording (by Engineers.SG): https://engineers.sg/video/techladies-pre-bootcamp-workshop-3-web-applications-with-ruby-on-rails--1794
+
+Additional learning resources: https://www.codeschool.com/courses/rails-for-zombies-redux; https://www.codecademy.com/learn/learn-rails; https://www.youtube.com/watch?v=eTdVkgF_Slo (on MVC Architecture); http://guides.rubyonrails.org; https://www.railstutorial.org/book
